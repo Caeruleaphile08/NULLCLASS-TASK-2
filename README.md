@@ -23,17 +23,9 @@ Creating a feature to throw an error if we enter the wrong word. For example if 
 
 ## Usage
 
-1. Ensure that you have Python installed on your machine.
+1. Run the cells:
 
-2. Navigate to the directory where you cloned the repository.
-
-3. Run the `main.py` file using Python:
-
-    ```bash
-    python main.py
-    ```
-
-4. Follow the prompts to enter words to check. Type 'stop' to end the program.
+2. Follow the prompts to enter words to check. Type 'stop' to end the program.
 
 ## Features
 
