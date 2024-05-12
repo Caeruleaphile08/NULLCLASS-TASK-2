@@ -6,7 +6,7 @@ This project is a simple Python script that checks whether a given word is avail
 
 1. Clone the repository to your local machine:
 
-    ```
+    ```bash
     git clone https://github.com/Caeruleaphile08/NULLCLASS-TASK-2.git
     ```
 
@@ -29,7 +29,7 @@ Creating a feature to throw an error if we enter the wrong word. For example if 
 
 3. Run the `main.py` file using Python:
 
-    ```
+    ```bash
     python main.py
     ```
 
@@ -48,7 +48,3 @@ The dataset used for word checking is loaded from a CSV file containing word fre
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
