@@ -35,7 +35,10 @@ Creating a feature to throw an error if we enter the wrong word. For example if 
 
 ## Dataset
 
-The dataset used for word checking is loaded from a CSV file containing word frequencies. You can find the dataset [here]([https://example.com/dataset.csv](https://www.kaggle.com/datasets/rtatman/english-word-frequency?rvi=1)).
+The dataset used for word checking is loaded from a CSV file containing word frequencies. You can find the dataset in kaggle.
+```bash
+https://example.com/dataset.csv](https://www.kaggle.com/datasets/rtatman/english-word-frequency?rvi=1
+```
 
 ## Contributing
 
